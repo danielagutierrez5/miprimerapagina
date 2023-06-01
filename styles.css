@@ -169,6 +169,7 @@ h2{
   position: relative;
   padding: 10px;
   margin: 30px;
+  align-items: center;
 }
 /*img platano.png {
   display: block;
