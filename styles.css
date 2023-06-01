@@ -167,12 +167,14 @@ h2{
 .imgcontainer {
   display: block;
   position: relative;
+  padding: 10px;
+  margin: 30px;
 }
-img platano.png {
+/*img platano.png {
   display: block;
   position: relative;
   left: 50px;
-}
+}*/
 .video-p  {
  display: flex;
  flex-direction: column;
