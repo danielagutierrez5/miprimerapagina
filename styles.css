@@ -101,9 +101,7 @@ h2{
       display: flex;
       padding: 10px;
       height: 200px;
-      background-color: #fc81b4;
-      
-      
+      background-color: #fc81b4; 
   }
 
   .navbar {
@@ -165,11 +163,12 @@ h2{
   margin: 30px;
  }
 .imgcontainer {
-  display: block;
+  display: flex;
   position: relative;
   padding: 10px;
   margin: 30px;
-  align-items: center;
+  flex-wrap: wrap-reverse;
+  
 }
 /*img platano.png {
   display: block;
