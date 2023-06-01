@@ -156,6 +156,9 @@ h2{
     left: 255px;
 
    }
+   .container {
+    text-align: center;
+   }
  
 #img-container {
   display: flex;
@@ -181,6 +184,7 @@ button {
     .column {
       flex: 100%;
     }
+  }
   
   .nav-links {
     display: none;
@@ -217,3 +221,6 @@ button {
  iframe, .video-p {
   max-width: 90px;
  }
+.greeting {
+  text-align: center;
+}
