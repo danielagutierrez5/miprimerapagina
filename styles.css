@@ -126,7 +126,7 @@ h2{
     left: 0px;
   }
   li {
-    list-style-type: none;
+    list-style-type: center;
 
   }
 
@@ -159,13 +159,13 @@ h2{
    .container {
     text-align: center;
    }
- 
+ #info {
+  margin: 30px;
+ }
 #img-container {
   display: flex;
   left: 160px;
   border: none;
-  padding: 20px;
-  
   
 }
 .video-p  {
