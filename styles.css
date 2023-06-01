@@ -164,12 +164,9 @@ h2{
   margin: 30px;
  }
 #img-container {
-  display: flex;
-  flex-direction: row;
-  left: 160px;
-  border: none;
-  margin: 30px;
-  
+  display: block;
+  position: relative;
+  gap: 30px;
 }
 .video-p  {
  display: flex;
