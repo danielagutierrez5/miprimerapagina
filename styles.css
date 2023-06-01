@@ -160,14 +160,14 @@ h2{
     text-align: center;
    }
  #info {
-  margin: 30px;
+  margin: 50px;
+  padding: 10px;
+
  }
 .imgcontainer {
   display: flex;
   position: relative;
-  padding: 10px;
-  margin: 30px;
-  flex-wrap: wrap-reverse;
+  
   
 }
 /*img platano.png {
